@@ -5,7 +5,7 @@ namespace Tochka\TaskManager;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;
-use Tochka\EsbAdapter\Commands\TaskMakeMigration;
+use Tochka\TaskManager\Console\TaskMakeMigration;
 use Tochka\TaskManager\Console\TaskDisable;
 use Tochka\TaskManager\Console\TaskEnable;
 use Tochka\TaskManager\Console\TaskPause;

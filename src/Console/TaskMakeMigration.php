@@ -1,6 +1,6 @@
 <?php
 
-namespace Tochka\EsbAdapter\Commands;
+namespace Tochka\TaskManager\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
